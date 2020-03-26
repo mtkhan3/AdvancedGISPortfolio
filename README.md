@@ -1,4 +1,4 @@
-# Maria T. Khan's Advanced GIS Portfolio
+# Advanced GIS Portfolio
 A creative approach to GIS stlye, design, analysis, and more. 
 
 # About Me
