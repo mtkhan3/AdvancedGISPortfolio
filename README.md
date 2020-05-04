@@ -11,6 +11,7 @@ I hope to learn how GIS can be customized to be a useful analytical tool for a v
 
 # Working Portfolio 
 The following project is the cumulation of a multitude of lessons pertaining to Advanced GIS: 
+
 [Covid-19 and Non-Citizen Communities](https://arcg.is/5Lmve)
 
 # Contact Me
