@@ -11,7 +11,7 @@ I hope to learn how GIS can be customized to be a useful analytical tool for a v
 
 # Working Portfolio 
 The following project is the cumulation of a multitude of lessons pertaining to Advanced GIS: ...exciting projects coming soon...
-[Covid-19 and Non-Citizen Communities](/https://arcg.is/5Lmve.md)
+[Covid-19 and Non-Citizen Communities](https://arcg.is/5Lmve.md)
 
 # Contact Me
 Say HI at mtkhan@andrew.cmu.edu !
